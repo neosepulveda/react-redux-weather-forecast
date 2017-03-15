@@ -15,6 +15,8 @@ export default class SearchBar extends Component {
 
   onFormSubmit(event) {
     event.preventDefault();
+
+    //We need to fetch data
   }
 
   render() {
